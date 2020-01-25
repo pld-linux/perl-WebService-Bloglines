@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	WebService
 %define	pnam	Bloglines
 Summary:	WebService::Bloglines - Easy-to-use Interface for Bloglines Web Services
